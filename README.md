@@ -2,7 +2,7 @@
 
 This is my GitHub page, and here are some interesting information about me:
 
-![Krauzer's GitHub stats](https://github-readme-stats.vercel.app/api?username=krauzer&show_icons=true&theme=dark)
+![Krauzer's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrauzerPH94&show_icons=true&theme=dark)
 
 - 🔭 I’m currently working on **JavaScript** coding challanges;
 - 🌱 I’m currently learning **JavaScript** focused on full stack;
