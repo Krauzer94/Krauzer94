@@ -23,7 +23,7 @@ This is my GitHub page, and here are some interesting information about me:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-- 🔭 **I’m currently working** on JavaScript coding challanges;
+- 🔭 **I’m currently working on** JavaScript coding challanges;
 - 🌱 **I’m currently learning** JavaScript focused on full stack;
 - 👯 **I’m looking to collaborate on** full stack web projects;
 - 🤔 **I’m looking for help with** frameworks like React and Node;
