@@ -20,7 +20,7 @@ This is my GitHub page, and here are some interesting information about me:
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-- 🔭 **I’m currently working on** web-dev coding projects;
+- 🔭 **I’m currently working on** web development coding projects;
 - 🌱 **I’m currently learning** to code HTML, CSS and JavaScript;
 - 🤔 **I’m looking for help with** Bootstrap and React frameworks;
 - 💬 **Ask me about** anything that is related to anime and gaming;
