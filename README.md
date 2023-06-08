@@ -15,6 +15,11 @@ This is my GitHub page, and here are some interesting information about me:
 ![CSS](https://img.shields.io/badge/CSS-25469d?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-4f6326?style=for-the-badge&logo=javascript&logoColor=white)
 
+### Roadmap
+![Bootstrap](https://img.shields.io/badge/bootstrap-25469d.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-4f6326?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-e92020.svg?style=for-the-badge&logo=react&logoColor=white)
+
 - 🔭 **I’m currently working on** developing web coding projects;
 - 🌱 **I’m currently learning** to code HTML, CSS and JavaScript;
 - 🤔 **I’m looking for help with** learning JavaScript technologies;
