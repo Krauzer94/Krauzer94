@@ -4,9 +4,9 @@ This is my GitHub page, and here are some interesting information about me:
 
 ### Socials
 
-[<img src="https://img.shields.io/badge/linkedin-%25469d.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/pedro-krauzer-51103a101/)
-[<img src="https://img.shields.io/badge/YouTube-%e92020.svg?style=for-the-badge&logo=YouTube&logoColor=white">](https://www.youtube.com/channel/UCfn9FO7CKhn6_Z1jw5NiF8A)
-[<img src="https://img.shields.io/badge/linktree-78ab50?style=for-the-badge&logo=linktree&logoColor=white">](https://linktr.ee/krauzer)
+[<img src="https://img.shields.io/badge/-LinkedIn-25469d?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/pedro-krauzer-51103a101/)
+[<img src="https://img.shields.io/badge/YouTube-e92020?style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/channel/UCfn9FO7CKhn6_Z1jw5NiF8A)
+[<img src="https://img.shields.io/badge/LinkTree-4f6326?style=for-the-badge&logo=linktree&logoColor=white">](https://linktr.ee/krauzer)
 
 ![Krauzer's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrauzerPH94&show_icons=true&theme=dark)
 
