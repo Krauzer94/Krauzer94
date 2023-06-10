@@ -16,9 +16,9 @@ This is my GitHub page, and here are some interesting information about me:
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 
 ### Roadmap
-![React](https://img.shields.io/badge/react-blue.svg?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/react-grey.svg?style=for-the-badge&logo=react&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node-green?style=for-the-badge&logo=node.js&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-grey.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-blue.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 - 🔭 **I’m currently working on** developing web coding projects;
 - 🌱 **I’m currently learning** to code HTML, CSS and JavaScript;
