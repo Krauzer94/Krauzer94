@@ -16,6 +16,7 @@ This is my GitHub page, and here are some interesting information about me:
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 
 ### Roadmap
+![Pico.css](https://img.shields.io/badge/p._pico-white.svg?style=for-the-badge&logo=pico&logoColor=white)
 ![React](https://img.shields.io/badge/react-blue.svg?style=for-the-badge&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-grey.svg?style=for-the-badge&logo=react&logoColor=white)
 
