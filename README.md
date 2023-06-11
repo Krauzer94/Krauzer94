@@ -17,7 +17,7 @@ This is my GitHub page, and here are some interesting information about me:
 
 ### Roadmap
 ![React](https://img.shields.io/badge/react-blue.svg?style=for-the-badge&logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-grey.svg?style=for-the-badge&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/native-grey.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-white?style=for-the-badge&logo=next.js&logoColor=black)
 
 - 🔭 **I’m currently working on** developing web coding projects;
