@@ -11,7 +11,7 @@ This is my GitHub page, and here are some interesting information about me:
 ![Krauzer's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrauzerPH94&show_icons=true&theme=dark)
 
 ### Technologies
-![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-blue?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 
