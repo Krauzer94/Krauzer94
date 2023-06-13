@@ -17,7 +17,7 @@ This is my GitHub page, and here are some interesting information about me:
 
 ### Roadmap
 ![Pico.css](https://img.shields.io/badge/pico.css-blue.svg?style=for-the-badge&logo=pico&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue-green.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue-black.svg?style=for-the-badge&logo=vuedotjs&logoColor=black)
 ![Firebase](https://img.shields.io/badge/POcketbase-white?style=for-the-badge&logo=logo&logoColor=black)
 
 - 🔭 **I’m currently working on** developing web coding projects;
