@@ -13,12 +13,12 @@ This is my GitHub page, and here are some interesting information about me:
 ### Technologies
 ![HTML5](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-blue?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/jscript-green.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
 ### Roadmap
-![React](https://img.shields.io/badge/react-blue.svg?style=for-the-badge&logo=react&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node-yellow?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-green.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node-green?style=for-the-badge&logo=node.js&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-red.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/rails-blue.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 - 🔭 **I’m currently working on** developing web coding projects;
 - 🌱 **I’m currently learning** to code HTML, CSS and JavaScript;
