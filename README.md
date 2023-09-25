@@ -11,14 +11,14 @@ This is my GitHub page, and here are some interesting information about me:
 ![Krauzer's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrauzerPH94&show_icons=true&theme=dark)
 
 ### Technologies
-![HTML5](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-blue?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/jscript-green.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/Linux-blue?style=for-the-badge&logo=linux&logoColor=white)
+![CSS](https://img.shields.io/badge/jscript-green?&style=for-the-badge&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/ruby-red.svg?style=for-the-badge&logo=ruby&logoColor=white)
 
 ### Roadmap
-![NodeJS](https://img.shields.io/badge/node-green?style=for-the-badge&logo=node.js&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-red.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/rails-blue.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![NodeJS](https://img.shields.io/badge/rails-red?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Ruby](https://img.shields.io/badge/react-blue.svg?style=for-the-badge&logo=react&logoColor=white)
+![Rails](https://img.shields.io/badge/nodejs-green.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
 - 🔭 **I’m currently working on** developing web coding projects;
 - 🌱 **I’m currently learning** to code HTML, CSS and JavaScript;
