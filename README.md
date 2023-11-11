@@ -10,10 +10,7 @@ This is my GitHub page, and here are some interesting information about me:
 
 ![Krauzer's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrauzerPH94&show_icons=true&theme=dark)
 
-### Technologies
-![HTML5](https://img.shields.io/badge/html-red.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css-blue.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrauzerPH94)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Roadmap
 ![React](https://img.shields.io/badge/react-blue.svg?style=for-the-badge&logo=react&logoColor=white)
