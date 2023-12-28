@@ -8,9 +8,7 @@ This is my GitHub page, and here are some interesting information about me:
 [<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=&logoColor=white">]([https://replit.com/@KrauzerPH94](https://www.youtube.com/channel/UCfn9FO7CKhn6_Z1jw5NiF8A))
 [<img src="https://img.shields.io/badge/LinkTree-green?style=for-the-badge&logo=&logoColor=white">](https://linktr.ee/krauzer)
 
-![Krauzer's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrauzerPH94&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrauzerPH94)](https://github.com/anuraghazra/github-readme-stats)
+![Krauzer's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrauzerPH94&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrauzerPH94)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Roadmap
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
