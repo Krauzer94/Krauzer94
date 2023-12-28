@@ -9,7 +9,7 @@ This is my GitHub page, and here are some interesting information about me:
 [<img src="https://img.shields.io/badge/LinkTree-green?style=for-the-badge&logo=&logoColor=white">](https://linktr.ee/krauzer)
 
 <div>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KrauzerPH94&show_icons=true&theme=dark" alt="Anadara Belmont github stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KrauzerPH94&show_icons=true&theme=dark" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrauzerPH94&layout=compact&show_icons=true&theme=dark" />
 </div>
 
