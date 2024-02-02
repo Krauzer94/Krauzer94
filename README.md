@@ -5,12 +5,12 @@ This is my GitHub page, and here are some interesting information about me:
 ### Socials
 
 [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=&logoColor=white">](https://www.linkedin.com/in/pedro-krauzer-51103a101/)
-[<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=&logoColor=white">]([https://replit.com/@KrauzerPH94](https://www.youtube.com/channel/UCfn9FO7CKhn6_Z1jw5NiF8A))
+[<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=&logoColor=white">]([https://replit.com/@Krauzer94](https://www.youtube.com/channel/UCfn9FO7CKhn6_Z1jw5NiF8A))
 [<img src="https://img.shields.io/badge/LinkTree-green?style=for-the-badge&logo=&logoColor=white">](https://linktr.ee/krauzer)
 
 <div>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KrauzerPH94&show_icons=true&theme=dark" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrauzerPH94&layout=compact&show_icons=true&theme=dark" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Krauzer94&show_icons=true&theme=dark" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krauzer94&layout=compact&show_icons=true&theme=dark" />
 </div>
 
 ### Roadmap
