@@ -8,7 +8,7 @@ This is my GitHub page, and here are some interesting information about me:
 [<img src="https://img.shields.io/badge/LinkTree-green?style=for-the-badge&logo=&logoColor=white">](https://linktr.ee/pedrok94)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Krauzer94&show_icons=true&theme=dark&hide_rank=true&hide=prs)
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krauzer94&layout=compact&show_icons=true&theme=dark&hide_progress=false)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krauzer94&layout=compact&show_icons=true&theme=dark&hide_progress=false&hide=jupyter%20notebook)
 
 ### Roadmap
 ![Ruby](https://img.shields.io/badge/ruby-red.svg?style=for-the-badge&logo=ruby&logoColor=white)
