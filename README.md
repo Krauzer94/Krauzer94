@@ -12,8 +12,8 @@ This is my GitHub page, and here are some interesting information about me:
 
 ### Roadmap
 ![NodeJS](https://img.shields.io/badge/node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-blue.svg?style=for-the-badge&logo=react&logoColor=white)
-![Python](https://img.shields.io/badge/python-red.svg?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-blue.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Rails](https://img.shields.io/badge/rails-red.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 - 🔭 **I’m currently working on** developing web coding projects;
 - 🌱 **I’m currently learning** to code HTML, CSS and JavaScript;
