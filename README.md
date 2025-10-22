@@ -11,9 +11,9 @@ This is my GitHub page, and here are some interesting information about me:
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krauzer94&layout=compact&show_icons=true&theme=dark&hide_progress=false&hide=jupyter%20notebook)
 
 ### Roadmap
-![NodeJS](https://img.shields.io/badge/node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-blue.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Rails](https://img.shields.io/badge/rails-red.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![JavaScript](https://img.shields.io/badge/jscript-green?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-red?style=for-the-badge&logo=ruby&logoColor=white)
 
 - 🔭 **I’m currently working on** developing web coding projects;
 - 🌱 **I’m currently learning** to code HTML, CSS and JavaScript;
