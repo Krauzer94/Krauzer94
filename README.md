@@ -7,9 +7,9 @@ This is my GitHub page, and here are some interesting information about me:
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krauzer94&layout=compact&show_icons=true&theme=dark&hide_progress=false&hide=jupyter%20notebook)
 
 ### Planned Roadmap
-![JavaScript](https://img.shields.io/badge/jscript-green?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-red?style=for-the-badge&logo=ruby&logoColor=white)
+![Node](https://img.shields.io/badge/node-green?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white)
+![Python](https://img.shields.io/badge/python-red?style=for-the-badge&logo=python&logoColor=white)
 
 - 🔭 **I’m currently working on** developing web coding projects;
 - 🌱 **I’m currently learning** to code HTML, CSS and JavaScript;
