@@ -15,5 +15,4 @@ This is my GitHub page, and here are some interesting information about me:
 - 🌱 **I’m currently learning** to code HTML, CSS and JavaScript;
 - 🤔 **I’m looking for help with** learning JavaScript technologies;
 - 💬 **Ask me about** anything that is related to anime and gaming;
-- 📫 **How to reach me:** here are my socials => [**linktr.ee/krauzer**](https://linktr.ee/krauzer);
 - ⚡ **Fun facts:** I love cats, coffee, practice yoga and I use Linux;
